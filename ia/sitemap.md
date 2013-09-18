@@ -1,0 +1,47 @@
+- Intro/Basics
+	- What's a Ghost Town
+	- Reasons for a Ghost Town
+- Towns of the World
+	- Europe
+		- Russia
+			- Chernobyl
+				- Chernobyl disaster
+			- Pripyat
+			- Mologa
+			- Kadykchan
+		- France
+			- Ordour-sur-Glane
+		- Italy
+			- Craco
+		- Czech Republic
+			- Lidice
+			
+ 	- Middle East
+ 		- Agdam
+ 	- Africa
+ 		- Nambia
+ 			- Kolmanskop
+ 	- Asia
+ 		- Japan
+ 			- Tomioka/Fukushima
+ 			- Hashima Island
+ 		- China
+ 			- Kowloon
+ 	- North America
+ 		- Canada
+			 - Lost Villages of Ontario
+		- U.S.A.
+			- Centralia, Pensilvania
+				- Centralia Mine Fire
+			- US Route 66
+			- Times Beach, Missourri	
+	- Australia
+		- Wittenoom
+	- Antarctica
+		- Deception Island
+	- South America
+		- Argentina
+			- Epecuen 
+
+
+
