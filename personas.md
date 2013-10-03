@@ -36,7 +36,7 @@ Gerard has been teaching for 35 years and has currently begun travelling and pla
 
 ## Charlie
 
-*15, female, single, student*
+*15, female, student*
 
 Charlie enjoys all sorts of gaming and dogs. She has a school assignment related to ghost towns. She needs information! 
 
@@ -52,7 +52,7 @@ Charlie enjoys all sorts of gaming and dogs. She has a school assignment related
 
 **Likes**
 
-- Periods when her clothing doesn't fit her sisters and therefore can be borrowed by them.
+- Awesome clothing 
 - New iPhones! and all social media.
 
 **Dislikes**
