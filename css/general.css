@@ -14,7 +14,8 @@ body{
 
 }
 .logo{
-	width:30%;
+	width:90%;
+	max-height:120px;
 }
 .head{
 	padding-top:10px;
@@ -27,11 +28,11 @@ body{
 
 .head h1{
 	color:#f2f0d5;
-	font-size: 2em;
-		font-weight: 300;
+	font-size: 3em;
+		font-weight: 200;
 		text-align: center;
 		display:inline-block;
-margin-top:-30px;
+
 }
 .search{
 	float:right;
@@ -95,5 +96,35 @@ position:relative;
 height:300px;
 width:100%;
 overflow:hidden;
+
+}
+
+
+@media only screen and (max-width: 38em) {
+
+
+.head h1{
+	
+	font-size: 2em;
+		font-weight: 100;
+		text-align: right;
+		display:inline-block;
+margin-top:30px;
+}
+
+h2{
+	text-align:center;
+	}
+}
+
+@media only screen and (min-width: 38em) and (max-width: 60em) {
+
+.logo{
+	width:80%;
+
+}
+
+
+
 
 }
