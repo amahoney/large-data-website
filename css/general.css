@@ -3,6 +3,16 @@ body{
 	padding:0;
 
 }
+br{
+
+}
+img{
+	width:100%;
+}
+.art h1{
+
+padding:5%;
+}
 
 .main {
 	
@@ -48,7 +58,9 @@ h1{
 
 p{
 	font-family: "futura", sans-serif;
+	padding:5%;
 }
+
 
 h2{
 	padding-left:2%;
@@ -60,10 +72,6 @@ h2{
 	color:#40362e;
 }
 
-.nav-container{
-	background-color: #93d9b0;
-
-}
 .nav{
 
 	background-color:#93bf9e;
@@ -124,6 +132,19 @@ h2{
 
 }
 
+.art h1{
+	font-size:1.5em;
+	padding: 2% 2% 2% 5%;
+}
+
+p{
+	padding:0 5% 0 5%;
+}
+h2{
+	padding:2% 0 2% 5%;
+}
+
+
 }
 
 
@@ -132,6 +153,17 @@ h2{
 .logo{
 	width:50%;
 
+}
+
+.art h1{
+	font-size:1.7em;
+	padding: 1% 2% 0 5%;
+}
+h2{
+	padding:2% 0 0 2%;
+}
+p{
+	padding:2% ;
 }
 
 }
