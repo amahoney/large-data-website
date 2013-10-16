@@ -46,6 +46,7 @@ padding:5%;
 }
 .search{
 	float:right;
+	display:none;
 }
 
 h1{
