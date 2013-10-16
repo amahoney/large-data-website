@@ -1,6 +1,6 @@
 ---
 name: Pripyat, Ukraine
-image: nambia.jpg
+image: pripyat.jpg
 category: besttowns
 
 ---
