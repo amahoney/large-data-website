@@ -3,6 +3,10 @@ body{
 	padding:0;
 
 }
+a{
+	text-decoration: none;
+}
+
 br{
 
 }
@@ -71,6 +75,8 @@ h2{
 	font-size:1.1em;
 	padding-top:5px;
 	color:#40362e;
+	text-transform: uppercase;
+	background-color:#93d9b0;
 }
 
 .nav{

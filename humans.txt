@@ -1,0 +1,25 @@
+# TEAM
+
+Designer & Developer: Alyster Mahoney <maho0096@algonquinlive.com>
+GitHub: https://github.com/amahoney
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Grid teaching provided by T.Bradley.
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 3
+- Git + GitHub
+- Markdown
+
+## Hosting
+
+- Github <http://github.com>
