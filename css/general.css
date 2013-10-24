@@ -116,6 +116,13 @@ overflow:hidden;
 
 }
 
+.flex-img2{
+display:block;
+position:relative;
+height:80px;
+width:100%;
+overflow:hidden;
+}
 
 @media only screen and (max-width: 38em) {
 
@@ -132,6 +139,12 @@ margin-top:30px;
 h2{
 	text-align:center;
 	}
+
+.flex-img2{
+
+height:150px;
+
+}
 }
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
@@ -152,7 +165,10 @@ p{
 h2{
 	padding:2% 0 2% 5%;
 }
+.flex-img2{
+height:150px;
 
+}
 
 }
 
@@ -161,18 +177,23 @@ h2{
 
 .logo{
 	width:50%;
-
 }
 
 .art h1{
 	font-size:1.7em;
 	padding: 1% 2% 0 5%;
 }
+
 h2{
 	padding:2% 0 0 2%;
 }
+
 p{
 	padding:2% ;
+}
+
+.flex-img2{
+height:130px;
 }
 
 }

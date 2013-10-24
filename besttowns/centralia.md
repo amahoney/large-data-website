@@ -2,6 +2,7 @@
 name: Centralia, Pennsylvania
 image: centralia.jpg
 category: besttowns
+site: centralia.html
 
 ---
 
