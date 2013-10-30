@@ -3,8 +3,8 @@
 User testing was conducted by Alyster Mahoney on October 24, 2013 between the times of 3pm and 4pm with the following participants:
 
 - Caroline Guindon
-- {John Doe}
-- {Jordan Doe}
+- Jamie Dean
+- Steph Albert
 
 ## Tasks
 
