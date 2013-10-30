@@ -19,6 +19,7 @@ img{
 
 padding:5%;
 }
+
 footer{
 background-color: #f2f0d5;
 
@@ -41,7 +42,11 @@ text-decoration: none;
 	background-color: #f2f0d5;
 	padding: 5% 10% 5% 10%;
 	
+}
 
+.main h1{
+
+	padding: 5% 10% 5% 10%;
 
 }
 .logo{
