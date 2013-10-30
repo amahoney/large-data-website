@@ -130,19 +130,13 @@ z-index:100;
 
 display:block;
 position:relative;
-height:300px;
+
 width:100%;
 overflow:hidden;
 
 }
 
-.flex-img2{
-display:block;
-position:relative;
-height:80px;
-width:100%;
-overflow:hidden;
-}
+
 
 @media only screen and (max-width: 38em) {
 
@@ -160,11 +154,7 @@ h2{
 	text-align:center;
 	}
 
-.flex-img2{
 
-height:150px;
-
-}
 }
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
@@ -185,10 +175,7 @@ p{
 h2{
 	padding:2% 0 2% 5%;
 }
-.flex-img2{
-height:150px;
 
-}
 
 }
 
@@ -212,8 +199,6 @@ p{
 	padding:2% ;
 }
 
-.flex-img2{
-height:130px;
-}
+
 
 }
