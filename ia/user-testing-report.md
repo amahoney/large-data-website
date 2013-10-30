@@ -52,6 +52,7 @@ User testing was conducted by Alyster Mahoney on October 24, 2013 between the ti
 - Logo link broken.
 - Image links not perfect.
 - footer broken
+- images stretch: crop and remove height (thomas)
 
 ### Serious, Causes Frustration, May Hinder Completion
 
