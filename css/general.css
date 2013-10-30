@@ -19,7 +19,12 @@ img{
 
 padding:5%;
 }
+footer{
+background-color: #f2f0d5;
+color:#000;
+font-family: "futura", sans-serif;
 
+}
 .main {
 	
 	background: url('img/texture.jpg');
