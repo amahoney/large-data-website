@@ -35,7 +35,53 @@ font-family: "futura", sans-serif;
 text-decoration: none;
 
 }
+
+.skiplinks{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	z-index:3000;
+	width:100%;
+	font-size: 1.25rem;
+	font-weight:bold;
+	list-style-type: none;
+
+
+
 }
+
+.skiplinks a,
+.skiplinks a:link,
+.skiplinks a:visited{
+	padding:0.75em 1em;
+	position: absolute;
+	top: -10em;
+
+	background-color: #000;
+font-family: "futura", sans-serif;
+	color: #fff;
+	text-decoration: none;
+
+}
+
+.skiplinks a:focus{
+top: 0;
+
+}
+
+a:hover,
+a:active{
+	outline:none;
+}
+
+
+
+a:focus{
+
+ouline:3px solid #000;
+
+}
+
 .main {
 	
 	background: url('img/texture.jpg');
