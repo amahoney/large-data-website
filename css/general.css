@@ -6,17 +6,16 @@ body{
 a{
 	text-decoration: none;
 	list-style-type: none;
-	
-}
-.top{
-min-height:150px;
+	font-family: "futura", sans-serif;
+	color:#000;
 
 }
-br{
 
-}
+
 img{
 	width:100%;
+	min-height:50px;
+	
 }
 .art h1{
 
