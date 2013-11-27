@@ -2,6 +2,7 @@
 html{
 
 	background-color:#f2f0d5;
+
 }
 
 
@@ -116,7 +117,7 @@ outline:3px solid #000;
 .main {
 	
 	background: url('img/texture.jpg');
-	background-color: #f2f0d5;
+	
 	padding: 5%  ;
 	
 }
